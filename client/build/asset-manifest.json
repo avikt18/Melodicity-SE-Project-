@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01629680.chunk.css",
+    "main.js": "/static/js/main.9f643e64.chunk.js",
+    "main.js.map": "/static/js/main.9f643e64.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.71c5bbf3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.71c5bbf3.js.map",
+    "static/css/2.57656209.chunk.css": "/static/css/2.57656209.chunk.css",
+    "static/js/2.eff710fb.chunk.js": "/static/js/2.eff710fb.chunk.js",
+    "static/js/2.eff710fb.chunk.js.map": "/static/js/2.eff710fb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.57656209.chunk.css.map": "/static/css/2.57656209.chunk.css.map",
+    "static/css/main.01629680.chunk.css.map": "/static/css/main.01629680.chunk.css.map",
+    "static/js/2.eff710fb.chunk.js.LICENSE.txt": "/static/js/2.eff710fb.chunk.js.LICENSE.txt",
+    "static/media/ChooseRole.css": "/static/media/Music-wave.c52ae376.svg",
+    "static/media/Home.css": "/static/media/landing-page-headphone.0cf99d7d.png",
+    "static/media/Login.css": "/static/media/bg1.3ab3db14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71c5bbf3.js",
+    "static/css/2.57656209.chunk.css",
+    "static/js/2.eff710fb.chunk.js",
+    "static/css/main.01629680.chunk.css",
+    "static/js/main.9f643e64.chunk.js"
+  ]
+}
