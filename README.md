@@ -1,5 +1,6 @@
 
-![Design](https://user-images.githubusercontent.com/56076028/141937031-e7329cb4-6696-4559-8363-bffa026a3ee1.png)
+![Design](https://github.com/avikt18/Melodicity-SE-Project-/assets/56340999/7b8d840c-cc5a-4e90-91f0-5ebc2c985470)
+
 
 
 # [Melodicity](https://melodicity-app.onrender.com/)
